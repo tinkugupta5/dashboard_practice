@@ -26,3 +26,6 @@ function App() {
 }
 
 export default App;
+
+//// 4 april 2023 - 31:01
+//https://youtu.be/yKV1IGahXqA?t=1495
