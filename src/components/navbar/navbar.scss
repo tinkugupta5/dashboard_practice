@@ -23,11 +23,23 @@
             input{
                 border: none;
                 outline: none;
+                background-color: transparent;
+
+                &::placeholder {
+                    font-size: 12px;
+                }
             };
         }
 
         .items{
             display: flex;
+            align-items: center;
+
+            .item{
+                display: flex;
+                align-items: center;
+                margin-right: 20px;
+            }
         }
         
     }

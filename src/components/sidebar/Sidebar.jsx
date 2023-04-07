@@ -18,7 +18,6 @@ const Sidebar = () => {
         <span className="logo">Dashboard</span>
       </div>
       <hr />
-
       <div className="center">
         <ul>
           <p className="title">Main</p>
