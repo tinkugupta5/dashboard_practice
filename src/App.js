@@ -27,5 +27,5 @@ function App() {
 
 export default App;
 
-//// 4 april 2023 - 31:01
+//// 4 april 2023 - 46:56
 //https://youtu.be/yKV1IGahXqA?t=1495
