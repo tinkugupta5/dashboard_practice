@@ -8,7 +8,9 @@ const Widget = () => {
         <div className="title">User</div>
         <div className="counter">21312</div>
       </div>
-      <div className="right">Right</div>
+      <div className="right">
+        <div className="title">User</div>
+      </div>
     </div>
   );
 };
