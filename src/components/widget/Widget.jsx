@@ -10,6 +10,7 @@ const Widget = () => {
       </div>
       <div className="right">
         <div className="title">User</div>
+        <div className="title">User</div>
       </div>
     </div>
   );
