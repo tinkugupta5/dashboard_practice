@@ -1,5 +1,7 @@
 import React from "react";
 import "./widget.scss";
+import KeyboardArrowUpIcon from "@mui/icons-material/KeyboardArrowUp";
+import PersonOutlineIcon from "@mui/icons-material/PersonOutline";
 
 const Widget = () => {
   return (
@@ -7,10 +9,14 @@ const Widget = () => {
       <div className="left">
         <div className="title">User</div>
         <div className="counter">21312</div>
+        <div className="counter">See all user</div>
       </div>
       <div className="right">
-        <div className="title">User</div>
-        <div className="title">User</div>
+        <div className="percentage">
+          <KeyboardArrowUpIcon />
+          20%
+        </div>
+        <PersonOutlineIcon className="icon" />
       </div>
     </div>
   );
