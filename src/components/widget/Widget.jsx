@@ -14,7 +14,7 @@ const Widget = () => {
       <div className="right">
         <div className="percentage">
           <KeyboardArrowUpIcon />
-          24%
+          25%
         </div>
         <PersonOutlineIcon className="icon" />
       </div>
